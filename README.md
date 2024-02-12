@@ -5,10 +5,10 @@ The  queries offer insights into the employee database. For the last question th
 
 Folder structure:
 - main
--- README.md
--- EmployeeSQL
---- schema.sql
---- queries.sql
---- ERD.pndg
---- data
----- the data files that came with the `starter_code.zip` file
+-   README.md
+-   EmployeeSQL
+-     schema.sql
+-     queries.sql
+-     ERD.png
+-     data
+-       the data files that came with the `starter_code.zip` file
